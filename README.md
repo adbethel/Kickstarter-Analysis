@@ -3,7 +3,7 @@ Performing analysis on kickstarter data to uncover trends.
 
 
 
-                                                                     Deliverable 3: Written Analysis
+                                               Deliverable 3: Written Analysis
 
 
 Project Overview
